@@ -8,7 +8,7 @@ Features:-
 1) User-friendly Interface: Immerse yourself in a visually pleasing & easy to navigate game interface.
 2) Two-Player Mode.
 3) Winning Animations : Enjoy dynamic animation effect highlighting the winning moves for enchanced gaming atmosphere.
-4) Displaying Message on Winning: After winning the game , the message will display whether who is win i.e  X or O.
+4) Displaying Message on Winning: After winning the game , the message will displaying on screen whether who is winner of game i.e  X or O.
 5) Reset & Start new Game options are available.
 
 Languages used for making these Project
